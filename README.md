@@ -52,10 +52,8 @@ The following conditions apply:
 A big thanks goes to the following for their invaluable contributions in no particular order:
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) for his useful UN1CA PATCH
 - **[ExtremeXT](https://t.me/ExtremeXT)** for his help in smali, without his help this will not be posible and also help me fix smart view  
-- **[lanmacd](https://github.com/lanmacd)** for [Multidisabler](https://github.com/ianmacd/multidisabler-samsung).
-
-
-- **[Flylarb_meow](https://t.me/Flylarb_meow)** for his help and support
+- **[Ianmacd](https://github.com/Ianmacd)** for [Multidisabler](https://github.com/ianmacd/multidisabler-samsung).
+- **[BlassGO](https://t.me/BlassGO)** [Dynamic Installer](https://blassgo.blogspot.com/#id=android-projects-dev&author=BlassGO&category=FRAMEWORK&year=2024&title=Dynamic%20Installer)
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help and support
 - **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
