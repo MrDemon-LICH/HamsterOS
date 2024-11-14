@@ -3,7 +3,6 @@
 - Based on S23 FE
 - Octubre 2024 Patch
 - For S21 FEA Exynos (G990E) Only
-- NEW update
 # Feature
 - Slightly debloated
 - Slight performance improvement 
