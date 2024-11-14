@@ -54,7 +54,7 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[ExtremeXT](https://t.me/ExtremeXT)** for his help in smali, without his help this will not be posible and also help me fix smart view  
 - **[Ianmacd](https://github.com/Ianmacd)** for [Multidisabler](https://github.com/ianmacd/multidisabler-samsung).
 - **[BlassGO](https://t.me/BlassGO)** for  [Dynamic Installer](https://blassgo.blogspot.com/#id=android-projects-dev&author=BlassGO&category=FRAMEWORK&year=2024&title=Dynamic%20Installer)
-- **[Ricci206](https://xdaforums.com/m/ricci206/)** for [Secure Folder](https://xdaforums.com/m/ricci206.679552/)
+- **[Ricci206](https://xdaforums.com/m/ricci206.679552/)** for Secure Folder
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for [Samsung Health Patch](https://github.com/ShaDisNX255/NcX_Stock/commit/fc44443c15d747878b13a0bf6afed22f59648219#diff-ace00ff0bbba0643aa542eb1c15ba148dd6502dca2d4a3cdbb0fbc658d1f7a47)
 
 
