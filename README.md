@@ -52,6 +52,9 @@ The following conditions apply:
 A big thanks goes to the following for their invaluable contributions in no particular order:
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) for his useful UN1CA PATCH
 - **[ExtremeXT](https://t.me/ExtremeXT)** for his help in smali, without his help this will not be posible and also help me fix smart view  
+- **[lanmacd](https://github.com/lanmacd)** for [Multidisabler](https://github.com/ianmacd/multidisabler-samsung).
+
+
 - **[Flylarb_meow](https://t.me/Flylarb_meow)** for his help and support
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
 - **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help and support
