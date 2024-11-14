@@ -4,7 +4,7 @@
 <p align="center">Wellcome to HamsterOS 🐹</p>
 
 <p align="center">
-  <a href="https://t.me/A54DEVELOPER">💬 Telegram</a>
+  <a href="https://t.me/A54DEVELOPER">💬 Telegram Group</a>
 </p>
 
 # What is LICHROM?
