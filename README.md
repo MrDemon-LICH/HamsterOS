@@ -53,12 +53,9 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[salvogiangri](https://github.com/salvogiangri)** for his [UN1CA](https://github.com/salvogiangri/UN1CA/tree/main) for his useful UN1CA PATCH
 - **[ExtremeXT](https://t.me/ExtremeXT)** for his help in smali, without his help this will not be posible and also help me fix smart view  
 - **[Ianmacd](https://github.com/Ianmacd)** for [Multidisabler](https://github.com/ianmacd/multidisabler-samsung).
-- **[BlassGO](https://t.me/BlassGO)** [Dynamic Installer](https://blassgo.blogspot.com/#id=android-projects-dev&author=BlassGO&category=FRAMEWORK&year=2024&title=Dynamic%20Installer)
+- **[BlassGO](https://t.me/BlassGO)** for  [Dynamic Installer](https://blassgo.blogspot.com/#id=android-projects-dev&author=BlassGO&category=FRAMEWORK&year=2024&title=Dynamic%20Installer)
 - **[Winner](https://t.me/@Winnerxd1001)** for his help and support
-- **[ShaDisNX255](https://github.com/ShaDisNX255)** for his help and support
-- **[LineageOS Team](https://www.lineageos.org/)** for Updater-binary
-- **[corsicanu](https://github.com/corsicanu)** for GoodLock Patched
-- **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
-- **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
+- **[ShaDisNX255](https://github.com/ShaDisNX255)** for [Samsung Health Patch](https://github.com/ShaDisNX255/NcX_Stock/commit/fc44443c15d747878b13a0bf6afed22f59648219#diff-ace00ff0bbba0643aa542eb1c15ba148dd6502dca2d4a3cdbb0fbc658d1f7a47)
+
 
 # Enjoy HamsterOS 🐹❤️
