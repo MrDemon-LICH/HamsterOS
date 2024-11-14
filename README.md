@@ -27,6 +27,9 @@ HamsterOS is a custom firmware in development for the Samsung Galaxy S21 FE devi
 # How Install 🐹
 
 **[Guide Install](https://github.com/MrDemon-LICH/Testes/blob/main/Install.md)**
+**[Changelog](https://github.com/MrDemon-LICH/Testes/blob/main/changelog.md)**
+
+
 
 # Copyright Notice
 
