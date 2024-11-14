@@ -26,11 +26,11 @@ HamsterOS is a custom firmware in development for the Samsung Galaxy S21 FE devi
 - Secure Folder and Health prepatched
 # How Install 🐹
 
-**[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/Guide-install.md)**
+**[Guide Install](https://github.com/MrDemon-LICH/Testes/blob/main/Install.md)**
 
 # Copyright Notice
 
-Copyright © 2024 MrDemon-LICH. All rights reserved.
+Copyright © 2024 HamsterOS. All rights reserved.
 
 For LICHROM all rights to the software are reserved to the owner.
 
