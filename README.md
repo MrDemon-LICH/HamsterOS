@@ -36,7 +36,7 @@ HamsterOS is a custom firmware in development for the Samsung Galaxy S21 FE devi
 
 Copyright © 2024 HamsterOS. All rights reserved.
 
-For LICHROM all rights to the software are reserved to the owner.
+For HamsterOS all rights to the software are reserved to the owner.
 
 The following conditions apply:
 
@@ -59,4 +59,5 @@ A big thanks goes to the following for their invaluable contributions in no part
 - **[corsicanu](https://github.com/corsicanu)** for GoodLock Patched
 - **[Vaz15k](https://github.com/Vaz15k)** for Ofox,SHRP, and Vbmeta
 - **[3arthur6](https://github.com/3arthur6)** for BluetoothLibraryPatcher
-- *All people for use LICHROM❤️*
+
+# Enjoy HamsterOS 🐹❤️
