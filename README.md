@@ -7,8 +7,8 @@
   <a href="https://t.me/A54DEVELOPER">💬 Telegram Group</a>
 </p>
 
-# What is LICHROM?
-LICHROM is a custom firmware in development for the Samsung Galaxy A54 5G device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
+# About HamsterOS
+HamsterOS is a custom firmware in development for the Samsung Galaxy S21 FE device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
 
 # Features
 - Based on the latest stable Galaxy S23 FE firmware
