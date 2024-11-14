@@ -10,28 +10,20 @@
 # About HamsterOS
 HamsterOS is a custom firmware in development for the Samsung Galaxy S21 FE device. It is based on the latest and greatest Samsung UI and also includes additional features and tweaks to ensure the best user experience.
 
-# Features
-- Based on the latest stable Galaxy S23 FE firmware
-- Galaxy AI support
-- High end animations
-- Native/live blur support
-- AOD clock transition support
-- Adaptive color tone support
-- Adaptive refresh rate support
-- Extra brightness support
-- Picture remaster support
-- Object, shadow and reflection eraser support
-- Image clipper support
-- Smart Suggestions widget
-- Multi user support
-- Samsung DeX support
-- Camera privacy toggle support
-- Debloated from useless system services/additional apps
-- Integrated OTA updates app
-- [BluetoothLibraryPatcher](https://github.com/3arthur6/BluetoothLibraryPatcher) included
-- China Device Care app included
-- [Patched GoodLock](https://github.com/corsicanu/goodlock_dump) app included
-
+# Additional Features
+- 4K 120fps in Pro Video
+- Adaptive Color Tone
+- Bixby and Hi Bixby Voice wake-up
+- Disabled few Samsung Security
+- Show Lock screen wallpaper in AOD
+- Allow secure screenshot
+- Auto confirm 4 digits pin
+- New about phone interface
+- New boot animation (like S24)
+- One UI Version shows 6.1.1
+- Outdoor Mode
+- Ultrasonic fingerprint animations
+- Secure Folder and Health prepatched
 # How Install LICHROM
 
 **[Guide Install](https://github.com/MrDemon-LICH/PROJECT-LICHROM/blob/main/Guide-install.md)**
